@@ -1,4 +1,4 @@
-# Install script for directory: /home/zachary/cppProjects/SnakePrezentacja
+# Install script for directory: /home/zachary/cppProjects/SnakeGit
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/zachary/cppProjects/SnakePrezentacja/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/zachary/cppProjects/SnakeGit/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
