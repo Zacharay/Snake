@@ -268,7 +268,6 @@ void Game::drawInterface() {
     snprintf(timeText, sizeof(timeText), "Time: %.2f", m_elapsedTime);
     snprintf(pointsText, sizeof(pointsText), "Points: %d", m_points);
 
-    drawString(10, 10, "Zachariasz Slupski 203514");
     drawString(10, 30 ,requirements);
     drawString(500,30, pointsText);
     drawString(500, 10, timeText);
